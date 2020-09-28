@@ -1,7 +1,5 @@
 import FunctionsData
 
-#comentário
-#comentário 2
 
 def initializer():
     answerNewClient = int(input('Digite [1] - Para logar com um perfil existente e [2] - Para criar um novo:  '))
